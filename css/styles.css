@@ -7,6 +7,9 @@ body {
   background-color: #d1e0c3;
   color: #5a5a5a; }
 
+a {
+  color: #3a7a45; }
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 /* Carousel base class */
