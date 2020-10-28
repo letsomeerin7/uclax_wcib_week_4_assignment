@@ -4,7 +4,22 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a; }
+  color: #5a5a5a;
+  background-color: #d1e0c3; }
+
+.btn-outline-success {
+  color: #3a7a45;
+  border-color: #3a7a45; }
+
+.btn-primary {
+  color: #fff;
+  background-color: #86ad8c;
+  border-color: #fff; }
+
+.btn-secondary {
+  color: #fff;
+  background-color: #86ad8c;
+  border-color: #fff; }
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
