@@ -5,23 +5,10 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
   background-color: rgb(209, 224, 195);
+  color: #5a5a5a;
 }
 
-.btn-outline-success {
-  color: rgb(58, 122, 69);
-  border-color: rgb(58, 122, 69); }
-
-.btn-primary {
-  color: #fff;
-  background-color: rgb(134, 173, 140);
-  border-color: #fff; }
-
-.btn-secondary {
-  color: #fff;
-  background-color: rgb(134, 173, 140);
-  border-color: #fff; }
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -64,6 +51,20 @@ body {
   margin-right: .75rem;
   margin-left: .75rem;
 }
+
+.btn-outline-success {
+  color: rgb(58, 122, 69);
+  border-color: rgb(58, 122, 69); }
+
+.btn-primary {
+  color: #fff;
+  background-color: rgb(134, 173, 140);
+  border-color: #fff; }
+
+.btn-secondary {
+  color: #fff;
+  background-color: rgb(134, 173, 140);
+  border-color: #fff; }
 
 /* Featurettes
 ------------------------- */

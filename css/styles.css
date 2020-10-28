@@ -4,22 +4,8 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
-  background-color: #d1e0c3; }
-
-.btn-outline-success {
-  color: #3a7a45;
-  border-color: #3a7a45; }
-
-.btn-primary {
-  color: #fff;
-  background-color: #86ad8c;
-  border-color: #fff; }
-
-.btn-secondary {
-  color: #fff;
-  background-color: #86ad8c;
-  border-color: #fff; }
+  background-color: #d1e0c3;
+  color: #5a5a5a; }
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -56,6 +42,20 @@ body {
 .marketing .col-lg-3 p {
   margin-right: .75rem;
   margin-left: .75rem; }
+
+.btn-outline-success {
+  color: #3a7a45;
+  border-color: #3a7a45; }
+
+.btn-primary {
+  color: #fff;
+  background-color: #86ad8c;
+  border-color: #fff; }
+
+.btn-secondary {
+  color: #fff;
+  background-color: #86ad8c;
+  border-color: #fff; }
 
 /* Featurettes
 ------------------------- */
